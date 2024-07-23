@@ -1,0 +1,16 @@
+.text-yellow{
+    color: #f9bf00 !important;
+}
+.text-primary1 {
+    color: #44d7b6 !important;
+    font-weight: 900;
+}
+.fade1 {
+
+    transition: opacity .15s linear;
+ 
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
