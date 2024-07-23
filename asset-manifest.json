@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/baitapreactjsbuoi2/static/css/main.9c0176a7.css",
+    "main.js": "/baitapreactjsbuoi2/static/js/main.664779e2.js",
+    "index.html": "/baitapreactjsbuoi2/index.html",
+    "main.9c0176a7.css.map": "/baitapreactjsbuoi2/static/css/main.9c0176a7.css.map",
+    "main.664779e2.js.map": "/baitapreactjsbuoi2/static/js/main.664779e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c0176a7.css",
+    "static/js/main.664779e2.js"
+  ]
+}
